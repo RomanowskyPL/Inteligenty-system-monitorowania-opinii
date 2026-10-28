@@ -1,0 +1,10 @@
+# Środowiska wirtualne
+venv/
+env/
+
+# Klucze API i zmienne środowiskowe
+.env
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
